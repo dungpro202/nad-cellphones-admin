@@ -1,0 +1,22 @@
+
+
+.mr-auto a{
+    display:block;
+    padding-left: 60px;
+    text-decoration: none;
+    color: rgb(231, 231, 231);
+}
+
+.logo{
+    width: 200px;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .logo .logoimage{
+    width: 143px;
+  }
